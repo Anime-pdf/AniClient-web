@@ -1,0 +1,140 @@
+{
+  "urls": {
+    "2": {
+      "url": "http://krxclient.pages.dev/dist/css/style.css",
+      "folder": "html",
+      "filename": "29b7be372b616612abc95c0cfdcf6c8a1ef17686.00000002.css",
+      "filetime": "20210528183650",
+      "filesize": "68092",
+      "mimetype": "text/css",
+      "charset": "utf-8",
+      "url_original": "http://krxclient.pages.dev/dist/css/style.css"
+    }
+  }
+}
+{
+  "urls": {
+    "3": {
+      "url": "http://krxclient.pages.dev/dist/images/cta-illustration.svg",
+      "folder": "html",
+      "filename": "318703074db56f025cf3271aee5308f45b06f810.00000003.svg",
+      "filetime": "20210528183650",
+      "filesize": "273",
+      "mimetype": "image/svg+xml",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/images/cta-illustration.svg"
+    }
+  }
+}
+{
+  "urls": {
+    "4": {
+      "url": "http://krxclient.pages.dev/dist/images/favicon.png",
+      "folder": "binary",
+      "filename": "8276549759f873180d4f2a7503447433cd484b29.00000004.png",
+      "filetime": "20210528183650",
+      "filesize": "829",
+      "mimetype": "image/png",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/images/favicon.png"
+    }
+  }
+}
+{
+  "urls": {
+    "5": {
+      "url": "http://krxclient.pages.dev/dist/images/hero-back-illustration.svg",
+      "folder": "html",
+      "filename": "6723197e8fce627853ca0e44c4f56c4bc8cf5e1f.00000005.svg",
+      "filetime": "20210528183650",
+      "filesize": "10284",
+      "mimetype": "image/svg+xml",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/images/hero-back-illustration.svg"
+    }
+  }
+}
+{
+  "urls": {
+    "6": {
+      "url": "http://krxclient.pages.dev/dist/images/krx-logo.png",
+      "folder": "binary",
+      "filename": "874e77cc1e37f2a0e737e384b40f821c702e1b65.00000006.png",
+      "filetime": "20210528183650",
+      "filesize": "29943",
+      "mimetype": "image/png",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/images/krx-logo.png"
+    }
+  }
+}
+{
+  "urls": {
+    "1": {
+      "url": "http://krxclient.pages.dev/",
+      "folder": "html",
+      "filename": "5218ab8f863fe83408732423da0eb3e948705032.00000001.html",
+      "filetime": "20210528183650",
+      "filesize": "10581",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://krxclient.pages.dev/"
+    }
+  }
+}
+{
+  "urls": {
+    "7": {
+      "url": "http://krxclient.pages.dev/dist/images/logo.svg",
+      "folder": "html",
+      "filename": "943a9e7335cc8541e728876cc52225e8b6ad01c8.00000007.svg",
+      "filetime": "20210528183650",
+      "filesize": "1169",
+      "mimetype": "image/svg+xml",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/images/logo.svg"
+    }
+  }
+}
+{
+  "urls": {
+    "8": {
+      "url": "http://krxclient.pages.dev/dist/images/pricing-illustration.svg",
+      "folder": "html",
+      "filename": "571db4ecf9f62a7e95f3767022bd1484bcf0eed2.00000008.svg",
+      "filetime": "20210528183650",
+      "filesize": "6010",
+      "mimetype": "image/svg+xml",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/images/pricing-illustration.svg"
+    }
+  }
+}
+{
+  "urls": {
+    "9": {
+      "url": "http://krxclient.pages.dev/dist/js/main.min.js",
+      "folder": "html",
+      "filename": "f68bf880e4577575e462100836deb7ab9aaab04b.00000009.js",
+      "filetime": "20210528183650",
+      "filesize": "1285",
+      "mimetype": "application/javascript",
+      "charset": "",
+      "url_original": "http://krxclient.pages.dev/dist/js/main.min.js"
+    }
+  }
+}
+{
+  "urls": {
+    "10": {
+      "url": "http://krxclient.pages.dev/robots.txt",
+      "folder": "html",
+      "filename": "63827290b77eb741c3dd776eadaaaf027fb30603.00000010.txt",
+      "filetime": "20210528183650",
+      "filesize": "73",
+      "mimetype": "text/plain",
+      "charset": "utf-8",
+      "url_original": "http://krxclient.pages.dev/robots.txt"
+    }
+  }
+}
